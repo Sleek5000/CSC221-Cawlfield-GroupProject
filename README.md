@@ -7,4 +7,4 @@ __Project Description:__ Web Scraping project to gather Annual Mean Global Carbo
 
 __Webscraped URL:__ https://gml.noaa.gov/ccgg/trends/gl_gr.html
 
-__Collaborator:__ Dakotah Campbell (dcampbell6@my.waketech.edu)
+__Collaborator:__ Dakotah Campbell (dcampbell6@my.waketech.edu) ACCEPTED
